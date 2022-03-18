@@ -1,5 +1,5 @@
 # Object-detection
-Object detection with YOLO-V4
+Implement YOLOv4 Object Detection on your Webcam from within Google Colab! This module uses scaled-YOLOv4, the most fast and accurate object detection system there currently is. Perform object detections in real-time on webcam images and video with high accuracy and speed. ALL WITH A FREE GPU!
 
 ![FotoJet](https://user-images.githubusercontent.com/68725514/159012131-9c28e3dd-c400-4f5c-b2aa-97aa845a0d97.jpg)
 ![FotoJet (1)](https://user-images.githubusercontent.com/68725514/159012155-4455a16e-9f87-44eb-8ef8-d228a06acbda.jpg)
